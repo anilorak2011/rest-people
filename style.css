@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+h1 {
+   text-align: center;
+   color: yellow; 
+}
+nav {
+     margin:10 px 0 px;
+     text-align:center;
+     background-color: blueviolet;
+}
+nav a {
+     text-decoration:none;
+     padding-right: 60 px;
+     color:black;
+}
+main table {
+    background-color: red;
+}
+main tr{
+    background-color: maroon;
+}
+table img{
+    width:50 px ;
+    height:50 px ;
+}
+footer p{
+    background-color: plum;
+}
