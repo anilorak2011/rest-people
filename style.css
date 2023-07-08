@@ -2,6 +2,10 @@ body {
     font-family:sans-serif;
     background-color:aqua;
 }
+.logo{
+    height:50 px;
+    width:50 px;
+}
 h1 {
    text-align:center;
    color:yellow; 
